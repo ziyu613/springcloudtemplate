@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casclient" />
+        <module name="gis-bigdata" />
+        <module name="gis-configserver" />
+        <module name="gis-core" />
+        <module name="gis-dataservice" />
+        <module name="gis-gateway" />
+        <module name="gis-logger" />
+        <module name="gis-register" />
+        <module name="gis-transaction" />
+        <module name="trasaction" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="casclient" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="gis-bigdata" target="1.8" />
+      <module name="gis-configserver" target="1.8" />
+      <module name="gis-core" target="1.8" />
+      <module name="gis-dataservice" target="1.8" />
+      <module name="gis-gateway" target="1.8" />
+      <module name="gis-logger" target="1.8" />
+      <module name="gis-register" target="1.8" />
+      <module name="gis-transaction" target="1.8" />
+      <module name="platform" target="1.8" />
+      <module name="trasaction" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="casclient" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="gis-bigdata" options="-parameters" />
+      <module name="gis-configserver" options="-parameters" />
+      <module name="gis-core" options="-parameters" />
+      <module name="gis-dataservice" options="-parameters" />
+      <module name="gis-gateway" options="-parameters" />
+      <module name="gis-logger" options="-parameters" />
+      <module name="gis-register" options="-parameters" />
+      <module name="gis-transaction" options="-parameters" />
+      <module name="platform" options="" />
+      <module name="trasaction" options="-parameters" />
+    </option>
+  </component>
+</project>

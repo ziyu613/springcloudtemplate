@@ -1,0 +1,23 @@
+#将此服务注册到eureka
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka
+  instance:
+    prefer-ip-address: true
+
+server:
+  port: 7001
+
+spring:
+  application:
+    name: config-server
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        #如下是本地文件配置
+        native:
+          search-locations: classpath:/config #配置文件存放的目录
+

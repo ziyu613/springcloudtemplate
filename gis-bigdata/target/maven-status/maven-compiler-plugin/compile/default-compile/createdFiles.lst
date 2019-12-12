@@ -1,0 +1,3 @@
+com\oceanwood\platform\bigdata\config\ResourceServerConfig.class
+com\oceanwood\platform\bigdata\config\SwaggerConfig.class
+com\oceanwood\platform\bigdata\config\CrosConfig.class

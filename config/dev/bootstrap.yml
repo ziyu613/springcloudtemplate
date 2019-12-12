@@ -1,0 +1,22 @@
+#spring:
+#  cloud:
+#    config:
+#      override-none: true
+#      override-system-properties: false
+#  datasource:
+#    driver-class-name: org.postgresql.Driver
+#    url: jdbc:postgresql://192.168.1.111:5432/platform
+#    username: oceanwood
+#    password: oceanwood
+#  redis:
+#    url: redis://192.168.1.111:6379
+#
+##  redis:                                # Redis配置信息
+##    host: 192.168.1.111
+##    port: 6379
+##    password: foobared
+##    timeout: 2000
+##    pool:                               #Jedis Pool的配置信息
+##      maxIdle: 300
+##      minIdle: 100
+##      max-wait: -1

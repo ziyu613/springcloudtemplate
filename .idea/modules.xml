@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/casclient/casclient.iml" filepath="$PROJECT_DIR$/casclient/casclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-bigdata/gis-bigdata.iml" filepath="$PROJECT_DIR$/gis-bigdata/gis-bigdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-configserver/gis-configserver.iml" filepath="$PROJECT_DIR$/gis-configserver/gis-configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-core/gis-core.iml" filepath="$PROJECT_DIR$/gis-core/gis-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-dataservice/gis-dataservice.iml" filepath="$PROJECT_DIR$/gis-dataservice/gis-dataservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-gateway/gis-gateway.iml" filepath="$PROJECT_DIR$/gis-gateway/gis-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-logger/gis-logger.iml" filepath="$PROJECT_DIR$/gis-logger/gis-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-register/gis-register.iml" filepath="$PROJECT_DIR$/gis-register/gis-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-transaction/gis-transaction.iml" filepath="$PROJECT_DIR$/gis-transaction/gis-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/platform.iml" filepath="$PROJECT_DIR$/platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gis-transaction/trasaction.iml" filepath="$PROJECT_DIR$/gis-transaction/trasaction.iml" />
+    </modules>
+  </component>
+</project>
